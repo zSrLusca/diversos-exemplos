@@ -1,6 +1,6 @@
 export default function Separador(){
     return(
-        <div style={{border: "1px solid red" }}>
+        <div style={{border: "1px solid white" }}>
 
         </div>
     )

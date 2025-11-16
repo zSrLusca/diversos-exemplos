@@ -1,5 +1,7 @@
 import Exemplo01 from "./Exemplo01"
 import Separador from "./Separador";
+import Exemplo02 from "./Exemplo02";
+
 
 export default function App() {
   return (
@@ -8,6 +10,9 @@ export default function App() {
       <p>abaixo teremos diversos exemplos de react + JS</p>
     
     <Exemplo01/>
+    <Separador/>
+
+    <Exemplo02/>
     <Separador/>
     </div>
   );
