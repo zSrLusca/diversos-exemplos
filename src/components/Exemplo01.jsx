@@ -1,7 +1,11 @@
-export default function Exemplo01(){
+export default function Exemplo01() {
+  const Ligado = false;
 
+  if (Ligado === false) return <p>O computador esta desligado</p>;
 
-    return(
-        <h2>Exemplo com </h2>
-    )
+  return (
+    <div>
+      <h2> Condicional Simples </h2>
+    </div>
+  );
 }
