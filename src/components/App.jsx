@@ -2,7 +2,7 @@ import Exemplo01 from "./Exemplo01";
 import Separador from "./Separador";
 import Exemplo02 from "./Exemplo02";
 import Exemplo03 from "./Exemplo03";
-
+import Exemplo04 from "./Exemplo04";
 
 
 
@@ -19,6 +19,9 @@ export default function App() {
       <Separador />
 
       <Exemplo03 />
+      <Separador />
+
+      <Exemplo04 />
       <Separador />
     </div>
   );
