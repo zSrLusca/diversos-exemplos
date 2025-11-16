@@ -3,7 +3,7 @@ import Separador from "./Separador";
 import Exemplo02 from "./Exemplo02";
 import Exemplo03 from "./Exemplo03";
 import Exemplo04 from "./Exemplo04";
-
+import Exemplo05 from "./Exemplo05";
 
 
 export default function App() {
@@ -22,6 +22,9 @@ export default function App() {
       <Separador />
 
       <Exemplo04 />
+      <Separador />
+
+      <Exemplo05 />
       <Separador />
     </div>
   );

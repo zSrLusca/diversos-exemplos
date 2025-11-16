@@ -3,7 +3,7 @@ export default function Exemplo04(){
     let mensagem = ""
     return (
         <div>
-            <h2>Condição Ternaria</h2>
+            <h2>Condicional Ternaria</h2>
             <p>{ligado ? "Ligado" : "Desligado"  }</p>
         </div>
     )
